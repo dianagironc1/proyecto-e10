@@ -9,40 +9,40 @@ Equipo E__ · Análisis de Datos Básico · Estud-IA (Capa 2)
 ### 1. Usuario y decisión
 > ¿Quién usará el resultado (una persona o un área) y qué va a decidir con él?
 
-Escribe aquí.
+El resultado lo usará el área de ventas y va a decidir si se deben realizar modificaciones a la estrategia de ventas actual.
 
 ### 2. Pregunta principal
 > Una sola pregunta que ayude a tomar esa decisión.
 
-Escribe aquí.
+De acuerdo con los resultados actuales, es la estrategia de ventas de la compañía acertada o debe ajustarse?
 
 ### 3. Fuente de datos
 > Enlace o nombre de la fuente. ¿Es pública o es una muestra de práctica inventada (sintética)? Si es inventada, dilo aquí.
 
-Escribe aquí.
+Base de datos encontrada en Kaggle: https://www.kaggle.com/datasets/kyanyoga/sample-sales-data/data
 
 ### 4. Qué representa una fila
 > Completa la frase: «Cada fila es…». ¿Qué campo distingue una fila de otra?
 
-Cada fila es…
+Cada fila es una orden de compra.
 
 ### 5. Periodo
 > ¿Qué fechas cubren los datos?
 
-Escribe aquí.
+Desde el 2003 al 2005.
 
 ### 6. Cuatro indicadores
 > Nombre de cada indicador y, si ya puedes, cómo se calcula (qué se divide entre qué).
 
-1. 
-2. 
-3. 
-4. 
+1. Número de ordenes entregadas y canceladas por año.
+2. Porcentaje de ventas por categoria.
+3. Top 3 países con mayor y menos cantidad de ventas.
+4. Porcentaje de deals pequeños, medianos y grandes por país.
 
 ### 7. Fuera de alcance
 > Lo que este proyecto NO va a responder.
 
-Escribe aquí.
+Cuáles serían los ajustes a la estrategia en caso de ser necesarios.
 
 ## Si alcanzas hoy (para el jueves es obligatorio)
 

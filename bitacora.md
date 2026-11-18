@@ -4,7 +4,7 @@ Una línea por decisión: qué decidimos y por qué. Lo más reciente arriba.
 
 ## Decisiones
 
-- AAAA-MM-DD · Decisión · Por qué
+- 2026-11-17 · Se ELIMINA la columna "ORDERLINENUMBER"  · Porque no es clara para el equipo.
 
 ## Limpieza (desde la sesión 4)
 

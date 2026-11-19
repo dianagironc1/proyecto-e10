@@ -49,15 +49,15 @@ Cuáles serían los ajustes a la estrategia en caso de ser necesarios.
 ### Dos comparaciones útiles
 > Por ejemplo: por mes, por comuna, por categoría.
 
-1. 
-2. 
+1. Por Cliente
+2. Por Categoría
 
 ### Tres riesgos de calidad
 > ¿Qué podría venir mal en los datos? ¿Qué harías si la fuente falla?
 
-1. 
-2. 
-3. 
+1. Registros duplicados, faltantes o inconsistentes
+2. Columnas con códigos que se desconocen
+3. Rangos no comparables (periodos de tiempo desfasados
 
 ### Mapa de preguntas
 - ¿Qué pasó?

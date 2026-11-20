@@ -1,4 +1,4 @@
-Nombre del Proyecto
+ToyStock
 
 Equipo Sales Analytics· Análisis de Datos Básico · Estud-IA (Capa 2)
 

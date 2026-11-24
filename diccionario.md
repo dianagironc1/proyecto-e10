@@ -3,10 +3,10 @@
 > Explica cada columna de tu muestra para que otra persona la entienda sin preguntarte. Si no sabes algo, escribe **PENDIENTE:** y qué te falta confirmar.
 
 - **Archivo:** `datos/originales/NOMBRE.csv`
-- **Fuente y fecha de descarga:** 
-- **Cada fila es:** 
-- **Filas en la muestra:** 
-- **Campo que identifica cada fila (clave):** 
+- **Fuente y fecha de descarga: 19 de noviembre de 2026- https://www.kaggle.com/datasets/kyanyoga/sample-sales-data/data
+- **Cada fila es: 
+- **Filas en la muestra:
+- **Campo que identifica cada fila (clave):
 
 ## Columnas
 
